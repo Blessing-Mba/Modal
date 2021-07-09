@@ -234,6 +234,7 @@ Modal
   text-align: center;
   display: grid;
   align-items: center;
+  margin-left: 7rem;
   position: relative;
 }
 .close-btn {
